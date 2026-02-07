@@ -1,7 +1,6 @@
-# Codsoft_Task1
 # 🎬 Movie Genre Classification
 
-This repository contains **Task 1 of the CodSoft Internship** — a machine learning project that classifies the **genre of a movie** based on input features.
+This repository contains a machine learning project that classifies the **genre of a movie** based on input features.
 
 ## 📌 Project Overview
 
